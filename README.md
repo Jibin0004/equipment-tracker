@@ -1,10 +1,11 @@
-
-Equipment Management System (React + Node.js + JSON)
+<h1><strong>Equipment Management System (React + Node.js + JSON)</strong></h1>
 
 A full-stack equipment management system that allows users to add, edit, delete, view, filter, and export equipment data, with persistent storage using a JSON file on the backend.
 
 
-Features
+
+<h1><strong>Features</strong></h1>
+
 
 Add new equipment
 
@@ -24,7 +25,8 @@ Modern UI built with React + Tailwind CSS
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Tech Stack
+<h1><strong>Tech Stack</strong></h1>
+
 Frontend
 
 React (Create React App)
@@ -73,7 +75,7 @@ CORS
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Prerequisites
+<h1><strong>Prerequisites</strong></h1>
 
 Make sure the following are installed on your system:
 
@@ -81,29 +83,35 @@ Node.js (v16 or above recommended)
 
 npm (comes with Node.js)
 
-**Check versions:
+<h1><strong>Check versions:r</strong></h1>
+
 
 node -v
-npm -v**
+npm -v
 
 
 Backend Setup (Node.js + Express)
-Navigate to backend folder
+
+<h1><strong>Navigate to backend folder</strong></h1>
+
 
 cd equipment-tracker/backend
 
 
-Install dependencies
+<h1><strong>Install dependencies</strong></h1>
+
 
 npm install
 
 
-Start backend server
+<h1><strong>Start backend serverr</strong></h1>
+
 
 npm start
 
 
-If successful, you will see:
+<h1><strong>If successful, you will see:</strong></h1>
+
 
 Backend running at http://localhost:5000
 Using JSON file: equipment-data.json
@@ -117,47 +125,42 @@ http://localhost:5000/api/equipment
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Frontend Setup (React)
-Navigate to frontend folder
+
+
+<h1><strong>Navigate to frontend folder</strong></h1>
+
 
 cd equipment-tracker/frontend
 
-Install dependencies
+
+<h1><strong>Install dependencies</strong></h1>
+
 
 npm install
 
 
-Frontend dependencies used:
-
-react
-
-axios
-
-tailwindcss
-
-lucide-react
-
-Configure proxy (IMPORTANT)
-
-In frontend/package.json, ensure this line exists:
 
 "proxy": "http://localhost:5000"
 
 
 This allows React to communicate with the backend.
 
-Start frontend server
+<h1><strong>Start frontend server</strong></h1>
+
 
 npm start
 
 
-Frontend will run at:
+<h1><strong>Frontend will run at:</strong></h1>
+
 
 http://localhost:3000
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Important Notes
+<h1><strong>Important Notes</strong></h1>
+
 
 Do not edit equipment-data.json manually while server is running
 
@@ -167,7 +170,8 @@ Not recommended for production use
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Future Improvements
+<h1><strong>Future Improvements</strong></h1>
+
 
 Migrate JSON storage to MongoDB
 
