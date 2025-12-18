@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Mixer A1",
+    "type": "Mixer",
+    "status": "Active",
+    "lastCleaned": "2025-12-12"
+  },
+  {
+    "id": 2,
+    "name": "Tank B2",
+    "type": "Tank",
+    "status": "Inactive",
+    "lastCleaned": "2025-12-16"
+  },
+  {
+    "id": 3,
+    "name": "Mixer A2",
+    "type": "Mixer",
+    "status": "Under Maintenance",
+    "lastCleaned": "2025-12-03"
+  }
+]
