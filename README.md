@@ -47,24 +47,8 @@ JSON file storage (equipment-data.json)
 CORS
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="315" height="441" alt="image" src="https://github.com/user-attachments/assets/45a43d1f-772d-484e-8c1d-002419465b91" />
 
-Project Structure
-equipment-tracker/
-├── backend/
-│   ├── server.js
-│   ├── package.json
-│   ├── equipment-data.json
-│   └── node_modules/
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── public/
-│   ├── package.json
-│   └── node_modules/
-│
-└── README.md
 
 
 
