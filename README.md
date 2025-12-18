@@ -108,8 +108,8 @@ If successful, you will see:
 Backend running at http://localhost:5000
 Using JSON file: equipment-data.json
 
+<h1><strong>Backend API endpoint:</strong></h1>
 
-Backend API endpoint:
 
 http://localhost:5000/api/equipment
 
