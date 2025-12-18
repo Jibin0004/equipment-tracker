@@ -142,11 +142,6 @@ npm install
 
 
 
-"proxy": "http://localhost:5000"
-
-
-This allows React to communicate with the backend.
-
 <h1><strong>Start frontend server</strong></h1>
 
 
