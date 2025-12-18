@@ -81,10 +81,10 @@ Node.js (v16 or above recommended)
 
 npm (comes with Node.js)
 
-Check versions:
+**Check versions:
 
 node -v
-npm -v
+npm -v**
 
 
 Backend Setup (Node.js + Express)
