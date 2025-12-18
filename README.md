@@ -89,7 +89,9 @@ npm (comes with Node.js)
 node -v,
 npm -v
 
-<h1><strong>Backend Setup (Node.js + Express)</strong></h1>
+
+## **Backend Setup (Node.js + Express)**
+
 
 
 <h1><strong>Navigate to backend folder</strong></h1>
@@ -124,9 +126,8 @@ http://localhost:5000/api/equipment
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1><strong>Frontend Setup (React)</strong></h1>
 
-
+## **Frontend Setup (React)**
 
 <h1><strong>Navigate to frontend folder</strong></h1>
 
